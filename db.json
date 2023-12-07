@@ -17,9 +17,9 @@
             "supplierType": null,
             "managerLdap": 123,
             "specLdap": 123,
-            "providerCode": "2IJ",
-            "providerType": "2IJ",
-            "ediIdentifier": "2IJ1234567890",
+            "providerCode": "TEST_PROVIDER",
+            "providerType": "TEST_PROVIDER",
+            "ediIdentifier": "TEST_PROVIDER1234567890",
             "b2b": false
         }
     ],
