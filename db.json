@@ -1,5 +1,5 @@
 {
-  "rrr": {
+  "r-test": {
     "data": [
         {
             "supplierParentId": null,
@@ -19,7 +19,37 @@
             "specLdap": 123,
             "providerCode": "TEST_PROVIDER",
             "providerType": "TEST_PROVIDER",
-            "ediIdentifier": "TEST_PROVIDER1234567890",
+            "ediIdentifier": "TEST_PROVIDER-1234567890",
+            "b2b": false
+        }
+    ],
+    "pagination": {
+        "total": 1,
+        "page": 1,
+        "limit": 100
+    }
+},
+  "r-2ij": {
+    "data": [
+        {
+            "supplierParentId": null,
+            "supplierId": 999999999,
+            "name": "test",
+            "status": "A",
+            "currencyCode": "RUR",
+            "vatRegion": 123,
+            "gln": "null",
+            "ediInvcInd": "A",
+            "deptId": null,
+            "orgUnitId": 123,
+            "inn": "1234567890",
+            "kpp": "123456789",
+            "supplierType": null,
+            "managerLdap": 123,
+            "specLdap": 123,
+            "providerCode": "2IJ",
+            "providerType": "2IJ",
+            "ediIdentifier": "2IJ-1234567890",
             "b2b": false
         }
     ],
